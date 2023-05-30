@@ -14,6 +14,7 @@ This is a simple parking system program written in C++. It allows users to manag
 To run the parking system program on your local machine, follow these steps:
 
 1. Clone the repository:
+https://github.com/Bhavesh71/Parking-System-Using-Cpp.git
 
 2. Navigate to the project directory:
 
