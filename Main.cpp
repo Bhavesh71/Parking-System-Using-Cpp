@@ -51,7 +51,7 @@ void vehicleExit(Vehicle parkingLot[]){
             return;
         }
     }
-    cout<<"Vehicle with license plate"<<licensePlate<<" not found in any slot."<<endl;
+    cout<<"Vehicle with license plate "<<licensePlate<<" not found in any slot."<<endl;
 }
 
 // Creating a viewfreeslots function to display overall parking lot map and free slots available
