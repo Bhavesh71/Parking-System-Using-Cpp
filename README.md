@@ -16,12 +16,21 @@ To run the parking system program on your local machine, follow these steps:
 1. Clone the repository :
 https://github.com/Bhavesh71/Parking-System-Using-Cpp.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory :
+
 ![file_2023-05-30_15 39 55](https://github.com/Bhavesh71/Parking-System-Using-Cpp/assets/77270386/cdeed2f3-a437-4204-89bf-e746723423f2)
 
-3. Compile the source code using a C++ compiler:
+3. Open the project file :
 
-4. Run the executable:
+![file](https://github.com/Bhavesh71/Parking-System-Using-Cpp/assets/77270386/4f0f7d90-d822-4cf4-841c-55296942451f)
+
+4. Compile the source code using a C++ compiler:
+
+![file_20](https://github.com/Bhavesh71/Parking-System-Using-Cpp/assets/77270386/50b749a8-1234-4354-8c00-5dc50c6952a0)
+
+5. Run the executable:
+
+![file_2023-0](https://github.com/Bhavesh71/Parking-System-Using-Cpp/assets/77270386/417de500-e4b8-4c8c-914f-97dbd1a322f3)
 
 ## Usage
 
