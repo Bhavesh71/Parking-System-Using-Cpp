@@ -24,7 +24,7 @@ void displayMenu(){
 
 // Creating a vehicleentry function to book a slot for the vehicles entering
 void vehicleEntry(Vehicle parkingLot[]){
-    for (int i = 0; i<MAX_SLOTS; i++){
+    for(int i = 0; i<MAX_SLOTS; i++){
         if(parkingLot[i].licensePlate.empty()){
             cout<<"Enter License Plate: ";
             cin>>parkingLot[i].licensePlate;
