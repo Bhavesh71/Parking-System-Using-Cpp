@@ -1,6 +1,6 @@
-#include <iostream>
-#include <string>
-#include <iomanip>
+#include<iostream>
+#include<string>
+#include<iomanip>
 using namespace std;
 
 // Maximum number of parking slots
